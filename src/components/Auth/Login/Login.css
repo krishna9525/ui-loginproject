@@ -48,14 +48,14 @@ body {
     border-radius: 5px;
     font-size: 14px;
     width: 90%;
-    height: 35px;   
+    height: 40px;
     outline: none;
 }
 
 .txt-file input { 
  
     width: 90%;
-    height: 35px;
+    height: 40px;
     padding: 0px 15px;
     margin-top: 15px;
     border-radius: 5px;
@@ -67,7 +67,7 @@ label {
     font-size: 13px;
     text-decoration: underline;
     position: absolute;
-    top: 55%;
+    top: 54.5%;
     right: 15%;
     cursor: pointer;
 }
@@ -86,7 +86,7 @@ label {
 .btn-submit input {
     width: 100%;
     font-weight: 600;
-    padding: 7px 10px;
+    padding: 8px 10px;
     background-color: #FFDBAA;
     border: none;
     outline: none;
